@@ -29,6 +29,7 @@ function calcularEdadesFuturas() {
 }
  
 // Ejecutamos la función para procesar los cálculos en el servidor
+calcularEdadesFuturas();
  
 ?>
 <!DOCTYPE html>
