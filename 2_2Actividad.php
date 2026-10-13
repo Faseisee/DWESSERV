@@ -9,7 +9,7 @@
 // 2. Definición de variables globales (nombre, apellidos, edadActual)
  $nombre="Rafael";
  $apellidos="Riego Ruz";
- $edadActual="22 años";
+ $edadActual=22;
  
 // 3. Control de Ámbitos y Funciones PHP
 // Declaramos las variables fuera para inicializarlas en el ámbito global
