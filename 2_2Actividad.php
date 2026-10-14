@@ -1,11 +1,11 @@
 <?php
 // 1. Directivas de configuración
- 
- 
+
 // Configuración de hora local para la fecha dinámica
  
- 
- 
+$fechaHoy = date('d/m/Y');
+$horaActual = date('H:i:s');
+
 // 2. Definición de variables globales (nombre, apellidos, edadActual)
  $nombre="Rafael";
  $apellidos="Riego Ruz";
