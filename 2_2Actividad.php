@@ -1,6 +1,7 @@
 <?php
 // 1. Directivas de configuración
-
+ini_set('display_errors',1);
+ 
 // Configuración de hora local para la fecha dinámica
  
 $fechaHoy = date('d/m/Y');
